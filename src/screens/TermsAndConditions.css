@@ -1,0 +1,3 @@
+#termsAndConditions p {
+  @apply text-[25px] md:text-[32px] font-helvetica my-[41px] break-all md:break-normal  md:text-justify;
+}
